@@ -2,6 +2,14 @@
 Repository containing portfolio of data science projects completed by for academic and self learning purpose, and presented in the form of IPYNB Files.
 
 # Table Of Contents:
+**Bold**
+1.**Objective Of The Project**
+2.**Impact Of The Project**
+3.**Technical Aspect**
+4.**Data Collection Platform**
+5.**Metadata**
+6.**Challenges Faced**
+7.**Conclusion**
 
 
 ### Objective Of The Project
