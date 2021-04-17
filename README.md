@@ -1,9 +1,10 @@
 # Data-Science-Portfolio1-Chance Of Admission Prediction
 ***Repository containing portfolio of data science project completed by for academic and self learning purpose, and presented in the form of IPYNB Files.***
+
 ![LCO](https://user-images.githubusercontent.com/62828231/115129583-f5422c00-a004-11eb-83ee-ec699a22b653.jpg)
 
 ***
-# Table Of Contents:
+### Table Of Contents:
 - Objective Of The Project
 - Impact Of The Project
 - Technical Aspect
