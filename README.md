@@ -1,5 +1,7 @@
 # Data-Science-Portfolio1-Chance Of Admission Prediction
 Repository containing portfolio of data science project completed by for academic and self learning purpose, and presented in the form of IPYNB Files.
+![LCO](https://user-images.githubusercontent.com/62828231/115129583-f5422c00-a004-11eb-83ee-ec699a22b653.jpg)
+
 ***
 # Table Of Contents:
 - Objective Of The Project
@@ -14,10 +16,6 @@ Repository containing portfolio of data science project completed by for academi
 ### Objective Of The Project
 - <font color=blue>The dataset contains several parameters which are considered important during the application for Masters Programs. The students who have appeared for GRE exam need to know their chance of admission to a university based on those parameters.</font>
 - <font color=blue>Let's ask them first their all the GRE related score details and try to answer accordingly.</font>
-
-
-![LCO](https://user-images.githubusercontent.com/62828231/115129583-f5422c00-a004-11eb-83ee-ec699a22b653.jpg)
-
 
 ***
 ### Impact Of The Project :
