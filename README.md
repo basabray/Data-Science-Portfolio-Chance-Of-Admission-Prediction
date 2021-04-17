@@ -15,8 +15,7 @@ Repository containing portfolio of data science project completed by for academi
 - <font color=blue>The dataset contains several parameters which are considered important during the application for Masters Programs. The students who have appeared for GRE exam need to know their chance of admission to a university based on those parameters.</font>
 - <font color=blue>Let's ask them first their all the GRE related score details and try to answer accordingly.</font>
 
-Images
-![LCO Mascot](C:\Users\91842\Pictures\LCO.jpg "LCO Mascot")
+
 ![LCO](https://user-images.githubusercontent.com/62828231/115129583-f5422c00-a004-11eb-83ee-ec699a22b653.jpg)
 
 
